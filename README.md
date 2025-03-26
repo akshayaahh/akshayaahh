@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Akshaya Shetty 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79D00&center=true&vCenter=true&width=435&lines=Software+Developer;UI%2FUX+Designer;Animation+%26+Business+Explorer;Open+Source+Contributor" />
